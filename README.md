@@ -9,7 +9,7 @@ Given a driving simulator which provides the cross track error (CTE) and the vel
 
 * A [writeup](./writeup.md) detailing the results of the project and describing the procedure.
 
-* A [video](./output_videos/output_PID.mp4) output based on driving the vehicle around track using PID Controller.
+* A [video](./output_videos/output_PID.mkv) output based on driving the vehicle around track using PID Controller.
   
 #### Dependencies
 This project was developed in C++. 
